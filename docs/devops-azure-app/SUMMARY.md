@@ -1,6 +1,6 @@
++   [Azure 应用的 DevOps 教程](README.md)
 +   [一、面向 Azure 的 DevOps](1.md)
 +   [二、通过 TeamCity 和 Octopus Deploy 的部署](2.md)
 +   [三、通过 VSTS 的部署](3.md)
 +   [四、Azure 应用部署](4.md)
 +   [五、最后的想法](5.md)
-+   [Azure 应用的 DevOps 教程](README.md)
