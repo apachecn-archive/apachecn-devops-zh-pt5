@@ -1,3 +1,4 @@
++   [Azure 的 .NET DevOps 教程](README.md)
 +   [一、简介](01.md)
 +   [二、60 分钟内从零开始学习 Azure](02.md)
 +   [三、专业级 DevOps 环境](03.md)
@@ -8,4 +9,3 @@
 +   [八、发布候选的创建](08.md)
 +   [九、部署版本](09.md)
 +   [十、运维和监控发布](10.md)
-+   [Azure 的 .NET DevOps 教程](README.md)

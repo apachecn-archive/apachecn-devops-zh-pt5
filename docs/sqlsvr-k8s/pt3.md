@@ -1,1 +1,3 @@
-# 第三部分：SQL Server 库服务器
+# 第三部分：Kubernetes 中的SQL Server 
+
+<!-- ch 7~10 -->

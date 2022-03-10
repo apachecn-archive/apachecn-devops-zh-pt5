@@ -1,3 +1,4 @@
++   [Azure Board 实用指南](README.md)
 +   [一、Azure Boards 入门](01.md)
 +   [二、设置团队项目](02.md)
 +   [三、处理积压工作和板子](03.md)
@@ -8,4 +9,3 @@
 +   [八、Azure DevOps 安全选项](08.md)
 +   [九、使用 REST APIs 和 CLI](09.md)
 +   [十、通过 Azure Boards 使用扩展并通过 GitHub 链接](10.md)
-+   [Azure Board 实用指南](README.md)
