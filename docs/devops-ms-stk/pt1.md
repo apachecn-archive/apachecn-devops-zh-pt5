@@ -1,5 +1,4 @@
-# 第一部分
-开始
+# 第一部分：开始
 
 Getting Started
 
